@@ -1,2 +1,3 @@
 # FlyNeutral
-This project was entered in NAVBLUE Summer 2023 Hackathon.
+
+2023 NAVBLUE Hackathon project -> Luke, Haz, Moly, Aaron, Madeline, Nathan
